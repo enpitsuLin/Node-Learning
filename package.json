@@ -1,0 +1,14 @@
+{
+  "name": "mongo_crud",
+  "version": "1.0.0",
+  "description": "simple CRUD test for mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.25"
+  }
+}
